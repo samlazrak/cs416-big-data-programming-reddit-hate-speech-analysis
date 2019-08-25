@@ -1,0 +1,10 @@
+.idea
+/target/
+reddit_hate.iml
+out
+data
+docs
+log
+raw_data
+Big Data Project 1.pages
+HateWords.ipynb
